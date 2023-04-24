@@ -4,6 +4,7 @@ Repository for implementation of Computer Vision and Reinforcement Learning on s
 ## Self Driving Car -- GTA V
 
 [*] Script to get the frames
+
 [] Image Processing and Object Detection
 
 ## Stable Orbit to Moon -- Kerbal Space Program
